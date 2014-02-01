@@ -49,6 +49,7 @@ if %install_dev% == 1 (
 	cinst ctags
 	cinst mongodb
 	cinst nodejs.install
+	cinst githubforwindows 	
 )
 
 if %install_media% == 1 (
