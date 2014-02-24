@@ -7,6 +7,7 @@ cinst vim
 cinst ctags
 cinst nodejs.install
 cinst couchdb
+cinst githubforwindows
 
 cinst webpi
 cinst VisualStudio2012Premium
